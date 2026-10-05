@@ -1,0 +1,1 @@
+{"dependencies":{"@vercel/kv":"^1.0.0"},"description":"Royal telegraph of Aetherion — one Telegram bot, many citizen personas, powered by OpenAI.","main":"api/webhook.js","name":"aetherion-telegram-bot","version":"1.0.0"}
